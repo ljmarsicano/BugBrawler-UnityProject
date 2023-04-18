@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: f064da83de0af8743b03417653a5714f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9efda71acb1b44bc39f7f53320a11
+      internalID: -562313022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2023bdb15c7dff54783889e4cd036e41
+      internalID: 954661528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c02cf4c11b810248bc44699e35702d9
+      internalID: 483723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ac3e3ed0b62e4e8e474c9e995b68d
+      internalID: -850182950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2840e1fbccd14f8a2d1a57290f8b7
+      internalID: 794774208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c845399c7330a74cb673a0141213775
+      internalID: 1982600638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3398927acdd149b62a81d74b02c57
+      internalID: 1139835354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 359
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775bf686843c77945b6e1050e39eab62
+      internalID: -1626740076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f972865bf56d5f41b59601c19a45a65
+      internalID: -1189738709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9a8e8d340740c4d8de849d80a44c1f
+      internalID: -1614061825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59827b5a7b17a84e89dd4d9ac6e7e72
+      internalID: -112746465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985da1a31daa904c94492099118ad37
+      internalID: 827124016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850fc34a1a984ee43a5aa78ac390094f
+      internalID: -623440942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad80268a528004f8468932974dd2de
+      internalID: 1275537823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96866934e82c1794d9b843a0d1653f20
+      internalID: 651958663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 284
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d533d0858a0e4787b0c81b2e3f81e
+      internalID: -2010082723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8074f14636214ab0b2c5b4fa2d3b7
+      internalID: -162218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399548b4f44e30e48af3fc463995ec51
+      internalID: -2087314525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 209
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a0f38e3d881f48a7193ebb804af95
+      internalID: -1456664364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 209
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8f98dd124a0b4eb9d3080e9719f2a
+      internalID: 460529020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 209
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d6e852a88ade449815b9e42f2ffcc4
+      internalID: 1995466058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f2725aa71b2640b76e68f5c994716
+      internalID: 250175027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 134
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9611384c1b8b84ebddfac7ed25e755
+      internalID: -1821754251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 134
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5b6a032b24244cbb89f18e98c6931
+      internalID: 1240844189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 134
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a782ae843ddb49b7478c6de0fd7f8
+      internalID: 1870746701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 134
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8127a32924140419c96ef5c8711076
+      internalID: -1666213791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ecd9434a082b4baae2da9ed4ea43e
+      internalID: 1661625908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df9843d4ff72e4e9d19b4e4a8937df
+      internalID: -1339559667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd07ecd5871d2341b75119d49b337d6
+      internalID: -1656233365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b1d4184d241b49997e25b7b27942b
+      internalID: -1216927910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8983d4284ab590b4f8fc461eafcaaedd
+      internalID: 47395069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa620a8303c2e84db4fad87db729e25
+      internalID: 1911206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3246fde30ab2648a3a837b33ef6076
+      internalID: 524073455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RolyPolySpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 59
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f779ace9e9c1a46a27a58ffcb1404d
+      internalID: 813283477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RolyPolySpriteSheet_26: 1661625908
+      RolyPolySpriteSheet_9: -1614061825
+      RolyPolySpriteSheet_12: -623440942
+      RolyPolySpriteSheet_3: -850182950
+      RolyPolySpriteSheet_27: -1339559667
+      RolyPolySpriteSheet_16: -162218634
+      RolyPolySpriteSheet_17: -2087314525
+      RolyPolySpriteSheet_13: 1275537823
+      RolyPolySpriteSheet_31: 1911206131
+      RolyPolySpriteSheet_7: -1626740076
+      RolyPolySpriteSheet_20: 1995466058
+      RolyPolySpriteSheet_11: 827124016
+      RolyPolySpriteSheet_18: -1456664364
+      RolyPolySpriteSheet_14: 651958663
+      RolyPolySpriteSheet_4: 794774208
+      RolyPolySpriteSheet_32: 524073455
+      RolyPolySpriteSheet_33: 813283477
+      RolyPolySpriteSheet_6: 1139835354
+      RolyPolySpriteSheet_24: 1870746701
+      RolyPolySpriteSheet_22: -1821754251
+      RolyPolySpriteSheet_21: 250175027
+      RolyPolySpriteSheet_1: 954661528
+      RolyPolySpriteSheet_8: -1189738709
+      RolyPolySpriteSheet_25: -1666213791
+      RolyPolySpriteSheet_2: 483723445
+      RolyPolySpriteSheet_5: 1982600638
+      RolyPolySpriteSheet_23: 1240844189
+      RolyPolySpriteSheet_0: -562313022
+      RolyPolySpriteSheet_19: 460529020
+      RolyPolySpriteSheet_29: -1216927910
+      RolyPolySpriteSheet_28: -1656233365
+      RolyPolySpriteSheet_10: -112746465
+      RolyPolySpriteSheet_15: -2010082723
+      RolyPolySpriteSheet_30: 47395069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

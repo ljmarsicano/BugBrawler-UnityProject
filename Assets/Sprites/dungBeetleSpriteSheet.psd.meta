@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 1524c1a98aac0834a9c6540f42596f95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09729d821a50fca408078abb2fc3ba0a
+      internalID: -2113566101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e39a0e553966f4eaf61c19dc8a8132
+      internalID: 1137683544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969ceb70a30f0c4a9e221d3792e2676
+      internalID: 53776371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb2215dc8388841a8be77ee8465738
+      internalID: 1889997465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788c168aa2f5a944b6fd866183d2d67
+      internalID: -1058746428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62313614d7a1a2a4493cce2cb85d6268
+      internalID: 757490444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475273418719ca842ba660a876ec2244
+      internalID: 128042913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 385
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75eeeecf1b7c64d9a382de995ebcad
+      internalID: -1650390858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895b035a4ddf2542894a86f0f17399a
+      internalID: -621705989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab489295bff64469b042b13776e03e
+      internalID: -1854416714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f17a6bf196ee747bceb77e6f96ff5f
+      internalID: -299041707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a5fc4302b42649b52b400d8415c8a
+      internalID: -1979672958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a3e1c8abdd4245bdbb1e0136bc379
+      internalID: 570240263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474bcc95b6ad2d4c936c99b239a1f0a
+      internalID: 1928422965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf6a0f3f6858a42acfc08c717db10d
+      internalID: 1915704378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 310
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0efcd39395f4a4e808b022aa4eff6f
+      internalID: -220675444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf18349e612220428dfd721426bdfbe
+      internalID: 1499107122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08f01182449044480f16487c350672
+      internalID: 1750473261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2573aa9cd864054199d23db7ea9c486
+      internalID: -501184404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99463323d90900343ab06191a0bc8432
+      internalID: 1243473429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e667fcbc2a8b458ffb8358de7c25c
+      internalID: 1445154600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4fb7877e4166f4a8b0db4fb1e11b17
+      internalID: -496495536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617afb71358b45c44a697dbe9e8f2e27
+      internalID: 887835392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 235
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f79b62b6ec17c44a92a0c894cd564c
+      internalID: -1172651237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01570cd902e81d542a27906074a7100b
+      internalID: -181075667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0003c3458248054bb555335992bcc5e
+      internalID: 1625400444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef1b279d21a764097763e56b6b4671
+      internalID: -1107938718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c4b108a61e6148bab93208113767b
+      internalID: -1896449255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86601456720a24eb8b27f1841d417d
+      internalID: -354091991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e4c50d796d204c9f877d1951f9a36
+      internalID: 78399517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31753e7e4769a409da27faac82b770
+      internalID: -1933253934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 160
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc3673a9c310b4ab29cd2916f0bfeb
+      internalID: 904601513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d6d75a2a52b44bab041deed7df9e6
+      internalID: 1486613893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877e0b3410d0b26449c3723ce0170834
+      internalID: -1229953389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad168448732239043ba685e4f5a12683
+      internalID: 624502773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dac3d99c045874aa6eb93e818d18ae
+      internalID: -1385350575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e93ee87302354b9181aa95dc0c9d1
+      internalID: -110692524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e0197ad19e4f4ea0e25e9ab518310
+      internalID: -1550990629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336cc21b33983c4a9d2aed180cb3878
+      internalID: 1773604465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 85
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0ddb49ea46f94cbb95fc4bc11f007
+      internalID: 956764975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895b6010f5c40d4fb448f6c69ca62e3
+      internalID: -665485370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea220fdb0bc5204b821140165502e61
+      internalID: 1560613736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a41c7ad5c1720488c5e004a93ae7a4
+      internalID: 146931173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78114c22c3021404f9f5843b25ce5307
+      internalID: -2118756986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99cbf471694e614aa29399a4ca3ee33
+      internalID: -1285520231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0537a54fbf14162429013a6c7da7a184
+      internalID: 1232465038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8ee48e45d05f439e7de851a68ce76
+      internalID: 799643022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungBeetleSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298db0f2ef4d29c49a3536f4c6843804
+      internalID: -250600027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dungBeetleSpriteSheet_1: 1137683544
+      dungBeetleSpriteSheet_40: -665485370
+      dungBeetleSpriteSheet_20: 1445154600
+      dungBeetleSpriteSheet_33: -1229953389
+      dungBeetleSpriteSheet_19: 1243473429
+      dungBeetleSpriteSheet_12: 570240263
+      dungBeetleSpriteSheet_39: 956764975
+      dungBeetleSpriteSheet_44: -1285520231
+      dungBeetleSpriteSheet_36: -110692524
+      dungBeetleSpriteSheet_3: 1889997465
+      dungBeetleSpriteSheet_27: -1896449255
+      dungBeetleSpriteSheet_32: 1486613893
+      dungBeetleSpriteSheet_23: -1172651237
+      dungBeetleSpriteSheet_10: -299041707
+      dungBeetleSpriteSheet_35: -1385350575
+      dungBeetleSpriteSheet_43: -2118756986
+      dungBeetleSpriteSheet_13: 1928422965
+      dungBeetleSpriteSheet_28: -354091991
+      dungBeetleSpriteSheet_14: 1915704378
+      dungBeetleSpriteSheet_8: -621705989
+      dungBeetleSpriteSheet_31: 904601513
+      dungBeetleSpriteSheet_18: -501184404
+      dungBeetleSpriteSheet_4: -1058746428
+      dungBeetleSpriteSheet_46: 799643022
+      dungBeetleSpriteSheet_22: 887835392
+      dungBeetleSpriteSheet_6: 128042913
+      dungBeetleSpriteSheet_0: -2113566101
+      dungBeetleSpriteSheet_26: -1107938718
+      dungBeetleSpriteSheet_30: -1933253934
+      dungBeetleSpriteSheet_9: -1854416714
+      dungBeetleSpriteSheet_7: -1650390858
+      dungBeetleSpriteSheet_15: -220675444
+      dungBeetleSpriteSheet_24: -181075667
+      dungBeetleSpriteSheet_47: -250600027
+      dungBeetleSpriteSheet_2: 53776371
+      dungBeetleSpriteSheet_11: -1979672958
+      dungBeetleSpriteSheet_25: 1625400444
+      dungBeetleSpriteSheet_17: 1750473261
+      dungBeetleSpriteSheet_16: 1499107122
+      dungBeetleSpriteSheet_34: 624502773
+      dungBeetleSpriteSheet_21: -496495536
+      dungBeetleSpriteSheet_38: 1773604465
+      dungBeetleSpriteSheet_41: 1560613736
+      dungBeetleSpriteSheet_5: 757490444
+      dungBeetleSpriteSheet_37: -1550990629
+      dungBeetleSpriteSheet_42: 146931173
+      dungBeetleSpriteSheet_45: 1232465038
+      dungBeetleSpriteSheet_29: 78399517
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
